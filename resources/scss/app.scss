@@ -2,6 +2,7 @@
 @import 'abstracts/mixins';
 
 @import 'vendors/bootstrap';
+@import 'vendors/tailwind';
 
 @import 'base/reset';
 @import 'base/typography';
@@ -19,3 +20,7 @@
 // @import 'pages/contact';
 
 @import 'themes/theme';
+
+#brent {
+    text-align: center;
+}
